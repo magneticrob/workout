@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:b7f5adddb0876dba8fcddf032ed63863$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="Male Magic Robe.png" width="2032" height="309">
+    <sprite n="idleeast1" x="0" y="0" w="60" h="71"/>
+    <sprite n="idleeast2" x="60" y="0" w="60" h="71"/>
+    <sprite n="idleeast3" x="120" y="0" w="60" h="71"/>
+    <sprite n="idleeast4" x="180" y="0" w="60" h="71"/>
+    <sprite n="idlene1" x="240" y="0" w="56" h="72"/>
+    <sprite n="idlene2" x="296" y="0" w="56" h="72"/>
+    <sprite n="idlene3" x="352" y="0" w="56" h="72"/>
+    <sprite n="idlene4" x="408" y="0" w="56" h="72"/>
+    <sprite n="idlenorth1" x="464" y="0" w="64" h="72"/>
+    <sprite n="idlenorth2" x="528" y="0" w="64" h="71"/>
+    <sprite n="idlenorth3" x="592" y="0" w="64" h="71"/>
+    <sprite n="idlenorth4" x="656" y="0" w="64" h="72"/>
+    <sprite n="idlenw1" x="720" y="0" w="60" h="70"/>
+    <sprite n="idlenw2" x="780" y="0" w="60" h="70"/>
+    <sprite n="idlenw3" x="840" y="0" w="60" h="70"/>
+    <sprite n="idlenw4" x="900" y="0" w="60" h="70"/>
+    <sprite n="idlese1" x="960" y="0" w="56" h="70"/>
+    <sprite n="idlese2" x="1016" y="0" w="56" h="70"/>
+    <sprite n="idlese3" x="1072" y="0" w="56" h="70"/>
+    <sprite n="idlese4" x="1128" y="0" w="56" h="70"/>
+    <sprite n="idlesouth1" x="1184" y="0" w="64" h="70"/>
+    <sprite n="idlesouth2" x="1248" y="0" w="64" h="71"/>
+    <sprite n="idlesouth3" x="1312" y="0" w="64" h="71"/>
+    <sprite n="idlesouth4" x="1376" y="0" w="64" h="71"/>
+    <sprite n="idlesw1" x="1440" y="0" w="56" h="73"/>
+    <sprite n="idlesw2" x="1496" y="0" w="56" h="73"/>
+    <sprite n="idlesw3" x="1552" y="0" w="56" h="73"/>
+    <sprite n="idlesw4" x="1608" y="0" w="56" h="73"/>
+    <sprite n="idlewest1" x="1664" y="0" w="52" h="70"/>
+    <sprite n="idlewest2" x="1716" y="0" w="52" h="70"/>
+    <sprite n="idlewest3" x="1768" y="0" w="52" h="70"/>
+    <sprite n="idlewest4" x="1820" y="0" w="52" h="70"/>
+    <sprite n="runeast1" x="1872" y="0" w="88" h="70"/>
+    <sprite n="runeast2" x="1960" y="0" w="72" h="69"/>
+    <sprite n="runeast3" x="0" y="73" w="68" h="70"/>
+    <sprite n="runeast4" x="68" y="73" w="88" h="69"/>
+    <sprite n="runeast5" x="156" y="73" w="72" h="70"/>
+    <sprite n="runeast6" x="228" y="73" w="68" h="70"/>
+    <sprite n="runne1" x="296" y="73" w="72" h="74"/>
+    <sprite n="runne2" x="368" y="73" w="68" h="72"/>
+    <sprite n="runne3" x="436" y="73" w="68" h="77"/>
+    <sprite n="runne4" x="504" y="73" w="76" h="78"/>
+    <sprite n="runne5" x="580" y="73" w="64" h="72"/>
+    <sprite n="runne6" x="644" y="73" w="64" h="72"/>
+    <sprite n="runnorth1" x="708" y="73" w="60" h="82"/>
+    <sprite n="runnorth2" x="768" y="73" w="64" h="74"/>
+    <sprite n="runnorth3" x="832" y="73" w="64" h="78"/>
+    <sprite n="runnorth4" x="896" y="73" w="68" h="82"/>
+    <sprite n="runnorth5" x="964" y="73" w="64" h="74"/>
+    <sprite n="runnorth6" x="1028" y="73" w="60" h="78"/>
+    <sprite n="runnw1" x="1088" y="73" w="68" h="79"/>
+    <sprite n="runnw2" x="1156" y="73" w="68" h="73"/>
+    <sprite n="runnw3" x="1224" y="73" w="64" h="73"/>
+    <sprite n="runnw4" x="1288" y="73" w="64" h="74"/>
+    <sprite n="runnw5" x="1352" y="73" w="60" h="72"/>
+    <sprite n="runnw6" x="1412" y="73" w="68" h="77"/>
+    <sprite n="runse1" x="1480" y="73" w="76" h="70"/>
+    <sprite n="runse2" x="1556" y="73" w="60" h="68"/>
+    <sprite n="runse3" x="1616" y="73" w="64" h="72"/>
+    <sprite n="runse4" x="1680" y="73" w="72" h="69"/>
+    <sprite n="runse5" x="1752" y="73" w="68" h="69"/>
+    <sprite n="runse6" x="1820" y="73" w="68" h="73"/>
+    <sprite n="runsouth1" x="1888" y="73" w="68" h="75"/>
+    <sprite n="runsouth2" x="1956" y="73" w="68" h="68"/>
+    <sprite n="runsouth3" x="0" y="155" w="64" h="72"/>
+    <sprite n="runsouth4" x="64" y="155" w="60" h="74"/>
+    <sprite n="runsouth5" x="124" y="155" w="64" h="68"/>
+    <sprite n="runsouth6" x="188" y="155" w="64" h="72"/>
+    <sprite n="runsw1" x="252" y="155" w="64" h="69"/>
+    <sprite n="runsw2" x="316" y="155" w="60" h="70"/>
+    <sprite n="runsw3" x="376" y="155" w="68" h="73"/>
+    <sprite n="runsw4" x="444" y="155" w="68" h="70"/>
+    <sprite n="runsw5" x="512" y="155" w="64" h="68"/>
+    <sprite n="runsw6" x="576" y="155" w="64" h="72"/>
+    <sprite n="runwest1" x="640" y="155" w="68" h="69"/>
+    <sprite n="runwest2" x="708" y="155" w="56" h="69"/>
+    <sprite n="runwest3" x="764" y="155" w="60" h="70"/>
+    <sprite n="runwest4" x="824" y="155" w="68" h="69"/>
+    <sprite n="runwest5" x="892" y="155" w="56" h="69"/>
+    <sprite n="runwest6" x="948" y="155" w="60" h="70"/>
+    <sprite n="walkeast1" x="1008" y="155" w="64" h="69"/>
+    <sprite n="walkeast2" x="1072" y="155" w="60" h="70"/>
+    <sprite n="walkeast3" x="1132" y="155" w="60" h="70"/>
+    <sprite n="walkeast4" x="1192" y="155" w="64" h="69"/>
+    <sprite n="walkeast5" x="1256" y="155" w="60" h="70"/>
+    <sprite n="walkeast6" x="1316" y="155" w="60" h="70"/>
+    <sprite n="walkne1" x="1376" y="155" w="64" h="72"/>
+    <sprite n="walkne2" x="1440" y="155" w="60" h="70"/>
+    <sprite n="walkne3" x="1500" y="155" w="60" h="72"/>
+    <sprite n="walkne4" x="1560" y="155" w="60" h="77"/>
+    <sprite n="walkne5" x="1620" y="155" w="60" h="72"/>
+    <sprite n="walkne6" x="1680" y="155" w="60" h="69"/>
+    <sprite n="walknorth1" x="1740" y="155" w="64" h="78"/>
+    <sprite n="walknorth2" x="1804" y="155" w="64" h="73"/>
+    <sprite n="walknorth3" x="1868" y="155" w="64" h="71"/>
+    <sprite n="walknorth4" x="1932" y="155" w="64" h="78"/>
+    <sprite n="walknorth5" x="0" y="233" w="64" h="73"/>
+    <sprite n="walknorth6" x="64" y="233" w="64" h="72"/>
+    <sprite n="walknw1" x="128" y="233" w="60" h="76"/>
+    <sprite n="walknw2" x="188" y="233" w="60" h="73"/>
+    <sprite n="walknw3" x="248" y="233" w="60" h="70"/>
+    <sprite n="walknw4" x="308" y="233" w="68" h="71"/>
+    <sprite n="walknw5" x="376" y="233" w="60" h="69"/>
+    <sprite n="walknw6" x="436" y="233" w="60" h="72"/>
+    <sprite n="walkse1" x="496" y="233" w="60" h="73"/>
+    <sprite n="walkse2" x="556" y="233" w="56" h="72"/>
+    <sprite n="walkse3" x="612" y="233" w="56" h="69"/>
+    <sprite n="walkse4" x="668" y="233" w="64" h="68"/>
+    <sprite n="walkse5" x="732" y="233" w="60" h="69"/>
+    <sprite n="walkse6" x="792" y="233" w="56" h="72"/>
+    <sprite n="walksouth1" x="848" y="233" w="64" h="74"/>
+    <sprite n="walksouth2" x="912" y="233" w="64" h="71"/>
+    <sprite n="walksouth3" x="976" y="233" w="64" h="71"/>
+    <sprite n="walksouth4" x="1040" y="233" w="60" h="73"/>
+    <sprite n="walksouth5" x="1100" y="233" w="60" h="71"/>
+    <sprite n="walksouth6" x="1160" y="233" w="64" h="71"/>
+    <sprite n="walksw1" x="1224" y="233" w="64" h="68"/>
+    <sprite n="walksw2" x="1288" y="233" w="60" h="69"/>
+    <sprite n="walksw3" x="1348" y="233" w="60" h="72"/>
+    <sprite n="walksw4" x="1408" y="233" w="60" h="73"/>
+    <sprite n="walksw5" x="1468" y="233" w="60" h="72"/>
+    <sprite n="walksw6" x="1528" y="233" w="60" h="70"/>
+    <sprite n="walkwest1" x="1588" y="233" w="60" h="69"/>
+    <sprite n="walkwest2" x="1648" y="233" w="52" h="70"/>
+    <sprite n="walkwest3" x="1700" y="233" w="56" h="69"/>
+    <sprite n="walkwest4" x="1756" y="233" w="60" h="70"/>
+    <sprite n="walkwest5" x="1816" y="233" w="52" h="70"/>
+    <sprite n="walkwest6" x="1868" y="233" w="56" h="69"/>
+</TextureAtlas>
